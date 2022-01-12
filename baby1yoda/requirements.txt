@@ -1,8 +1,0 @@
-dash
-gunicorn
-numpy
-pandas
-plotly
-scikit-learn
-dash_bootstrap_components
-Jinja2
