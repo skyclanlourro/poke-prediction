@@ -46,9 +46,9 @@ app = dash.Dash(
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
     external_stylesheets=[dbc.themes.SLATE],
 )
-app.title = "Baby Yoda Pokemon Master"
+app.title = "Poke Prediction"
 
-app_name = "Baby Yoda Pokemon Master"
+app_name = "Poke Prediction"
 
 server = app.server
 
